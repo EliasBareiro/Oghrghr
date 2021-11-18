@@ -1,28 +1,77 @@
-{   "audio":"audios/audio.mp3",
-    "modelo":"modelos/modelo.glb",
-    "fondo":"rgb(0,0,0)",
+{   "audio":"audios/audio_tp.mp3",
+    "modelo":"modelos/Acantilado.glb",
+    "fondo":"rgb(20,20,120)",
     "data" :
         [
            {
                 "tiempo":"00:00",
                 "duracion":2000,
-                "camara":[0,0,-5],
-                "target":[0,0,0],
-                "nombre":"vista uno"
+                "camara":"Camara1",
+                "target":"punto1",
+                "nombre":"acantilado"
            },
            {
-               "tiempo":"00:03",
-               "duracion":2000,
-               "camara":[0,0,-10],
-               "target":[0,0,0],
-               "nombre":"vista dos"
+               "tiempo":"00:09",
+               "duracion":5000,
+               "camara":"Camara2",
+               "target":"punto2",
+               "nombre":"cueva lado"
           },
           {
-               "tiempo":"00:09",
-               "duracion":2000,
-               "camara":[0,0,-15],
-               "target":[0,0,0],
-               "nombre":"vista tres"
+               "tiempo":"00:18",
+               "duracion":5000,
+               "camara":"Camara3",
+               "target":"punto1",
+               "nombre":"cueva frente"
+          },
+          {
+               "tiempo":"00:54",
+               "duracion":5000,
+               "camara":"Camara4",
+               "target":"punto4",
+               "nombre":"dios lluvia 1"
+          },
+          {
+               "tiempo":"00:59",
+               "duracion":5000,
+               "camara":"Camara4",
+               "target":"punto4",
+               "nombre":"dios lluvia 2"
+          },
+          {
+               "tiempo":"01:06",
+               "duracion":5000,
+               "camara":"Camara5",
+               "target":"punto5",
+               "nombre":"dios viento 1"
+          },
+          {
+               "tiempo":"01:12",
+               "duracion":5000,
+               "camara":"Camara5",
+               "target":"punto6",
+               "nombre":"dios viento 2"
+          },
+          {
+               "tiempo":"01:16",
+               "duracion":5000,
+               "camara":"Camara6",
+               "target":"punto7",
+               "nombre":"dios trueno 1"
+          },
+          {
+               "tiempo":"01:19",
+               "duracion":5000,
+               "camara":"Camara6",
+               "target":"punto8",
+               "nombre":"dios trueno 2"
+          },
+          {
+               "tiempo":"01:25",
+               "duracion":5000,
+               "camara":"Camara7",
+               "target":"punto9",
+               "nombre":"cueva cara"
           }
       ]
 }
