@@ -1,5 +1,5 @@
 {   "audio":"audios/audio_tp.mp3",
-    "modelo":"modelos/Acantilado.glb",
+    "modelo":"modelos/acantilado_fondo_prueba2.glb",
     "fondo":"rgb(20,20,120)",
     "data" :
         [
@@ -25,22 +25,22 @@
                "nombre":"cueva frente"
           },
           {
-               "tiempo":"00:54",
-               "duracion":5000,
+               "tiempo":"00:59",
+               "duracion":0,
                "camara":"Camara4",
                "target":"punto4",
                "nombre":"dios lluvia 1"
           },
           {
-               "tiempo":"00:59",
+               "tiempo":"01:02",
                "duracion":5000,
                "camara":"Camara4",
                "target":"punto4",
                "nombre":"dios lluvia 2"
           },
           {
-               "tiempo":"01:06",
-               "duracion":5000,
+               "tiempo":"01:09",
+               "duracion":0,
                "camara":"Camara5",
                "target":"punto5",
                "nombre":"dios viento 1"
@@ -53,14 +53,14 @@
                "nombre":"dios viento 2"
           },
           {
-               "tiempo":"01:16",
-               "duracion":5000,
+               "tiempo":"01:15",
+               "duracion":0,
                "camara":"Camara6",
                "target":"punto7",
                "nombre":"dios trueno 1"
           },
           {
-               "tiempo":"01:19",
+               "tiempo":"01:18",
                "duracion":5000,
                "camara":"Camara6",
                "target":"punto8",
