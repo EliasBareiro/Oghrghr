@@ -1,5 +1,5 @@
 {   "audio":"audios/audio_tp.mp3",
-    "modelo":"modelos/TpTecnoBake.stl",
+    "modelo":"modelos/acantilado_fondo_prueba4.glb",
     "fondo":"rgb(20,20,120)",
     "data" :
         [
